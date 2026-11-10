@@ -1,0 +1,14 @@
+{
+  "name": "eflex-volume-smoke",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mini application de validation des volumes persistants Coolify pour Eflex",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
